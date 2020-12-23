@@ -1,14 +1,4 @@
-    /*------------------------------------------------------------------
 
-Project:		OYEENok E-Commerce Bootsrap Responsive Template
-Version:		1.1
-Last change:	27/09/17
-Created by: 	Lionode
-
--------------------------------------------------------------------*/
-
-
-/* -----  Google Font  -----*/
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700');
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700');
@@ -26,57 +16,6 @@ Created by: 	Lionode
 /* =====  INDEX OF STYLES ===== */
 
 
-/*
-01 ===== BASIC  =====
-  1.1 General
-  1.2 Typography  
-  1.3 Spacing    
-  1.4 Button
-  1.5 Elements
-  1.6 Accordions
-  1.7 Tabs
-  1.8 Progress Bars
-  1.9 Inputs
-  1.10 Newslatter popup 
-  
-02 ===== HEADER ===== 
-  2.1 Header
-  2.2 Navbar
-  2.3 Megamenu
-  2.4 Search
-  2.5 Cart
-  2.6 Header bottom
-  
-03 ===== CONTANT =====
-  3.1 Left column
-  3.2 Right column
-  	3.2.1 main banner
-  	3.2.2 CMS-Banner
-  	3.2.3 Home product
-  	3.2.4 Breadcrumb
-  	3.2.5 Blog
-  	3.2.6 Single Blog
-  	3.2.7 Product + Category Page 
-  	3.2.8 Client
-  	3.2.9 Owl nav
-  	3.2.10 About
-  	3.2.11 Team
-  	3.2.12 Contact
-  	3.2.13 Shop Page
-  	3.2.14 Login & register
-  	3.2.15 Map
-  	3.2.16 Brand
-  
-04 ===== FOOTER =====
-	4.1 Footer General
-	4.2 Scrollup
-*/
-
-
-/* ----------------------------------------------
-	BASIC
-	1.1 General  
------------------------------------------------ */
 
 body, html {
     height: 100%;
